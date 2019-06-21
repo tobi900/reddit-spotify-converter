@@ -1,5 +1,5 @@
 """
-This is a script, which takes the top posts from a subreddit (programmed for the formatting of r/listentothis)
+This script takes the top posts from a subreddit (programmed for the formatting of r/listentothis)
 and adds them to a Spotify playlist.
 Add your personal information, accounts and the playlist Id in InputData.
 
