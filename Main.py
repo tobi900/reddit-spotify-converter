@@ -190,3 +190,6 @@ if __name__ == '__main__':
     if printNeededTime:
         needed_time = time_end - time_start
         print(" Needed time: {}s".format(needed_time))
+
+        
+# Test
