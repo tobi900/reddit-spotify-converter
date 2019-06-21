@@ -159,7 +159,7 @@ if __name__ == '__main__':
 
     '''
     Creates a list with years from 1800 to 2020.
-    Titles with f.e(2017) in them were sometimes not removed.
+    Titles with for example (2017) in them were sometimes not removed.
     '''
     start = 1800
     years = []
